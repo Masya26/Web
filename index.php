@@ -4,7 +4,7 @@
     <meta content="">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
      <link rel="stylesheet" type="text/css" href="main.css">
-    <title>Список лабораторных работ Бикбулатова А. И.</title>
+    <title>Список лабораторных работ Бикбулатова А.И.</title>
   </head>
   <body>
     <ul id="nav">
